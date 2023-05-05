@@ -14,3 +14,7 @@ const isRGBColor2 = color => {
 };
 console.log(isRGBColor2("red"));
 console.log(isRGBColor2("yellow"));
+
+/* The includes() method determines whether an array includes a certain value
+among its entries. It returns true if a value exists, otherwise, it returns
+false */
